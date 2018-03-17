@@ -99,3 +99,10 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# VIM swp files
+.*.swp
+
+# data files
+processed/
+raw/
